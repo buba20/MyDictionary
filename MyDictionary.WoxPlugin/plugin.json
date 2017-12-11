@@ -1,0 +1,12 @@
+﻿{
+  "ID": "73b1781e3a5543c690cf551db7dea323", //Plugin ID，32 bit UUID
+  "ActionKeyword": "ort", //Plugin default action keyword
+  "Name": "Dictionary", //Plugin name
+  "Description": "Dictionary helper", //Plugin description
+  "Author": "Bartosz", //Plugin Author
+  "Version": "1.0.0", //Plugin version，must be x.x.x format
+  "Language": "csharp", //Plugin language，we support csharp,python and executable now
+  "Website": "", //Plugin website or author website
+  "IcoPath": "", //Plugin icon, relative path to the pluign folder
+  "ExecuteFileName": "MyDictionary.WoxPlugin.dll" //Execution entry. Dll name for c# plugin, and python file for python plugin
+}
